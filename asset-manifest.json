@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calsi/static/css/main.f482569d.css",
+    "main.js": "/calsi/static/js/main.ea97b84d.js",
+    "static/js/787.a56d0904.chunk.js": "/calsi/static/js/787.a56d0904.chunk.js",
+    "index.html": "/calsi/index.html",
+    "main.f482569d.css.map": "/calsi/static/css/main.f482569d.css.map",
+    "main.ea97b84d.js.map": "/calsi/static/js/main.ea97b84d.js.map",
+    "787.a56d0904.chunk.js.map": "/calsi/static/js/787.a56d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f482569d.css",
+    "static/js/main.ea97b84d.js"
+  ]
+}
