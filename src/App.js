@@ -19,12 +19,10 @@ const App = () =>{
     <div>
     <div class="container">
       <form>
-        
-        <input type="text" value={result} />
+       <input type="text" value={result} />
       </form>
       <div className='Keypad' >
-       
-       <button id='clear' onClick={clear}>Clear</button>
+        <button id='clear' onClick={clear}>Clear</button>
        <button id='backspace' onClick={backspace}>C</button>
        <button name="/" onClick={handleClick}>&divide;</button>
        <button name="7" onClick={handleClick}>7</button>
@@ -42,15 +40,9 @@ const App = () =>{
        <button name="0" onClick={handleClick}>0</button>
        <button name="." onClick={handleClick}>.</button>
        <button id='result' onClick={calculate}>=</button>
-
-
-      </div>
-
-    </div>
-
-
+       </div>
+     </div>
     </div>
   );
-
 }
 export default App;
